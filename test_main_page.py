@@ -3,8 +3,7 @@ from .pages.login_page import LoginPage
 from .pages.product_page import ProductPage
 import pytest
 
-TEST CLONE FROM 1_branch
-TEST CLONE
++++++++++++++++++++++++++++++++++++++++++
 
 @pytest.mark.login_guest
 class TestLoginFromMainPage():
